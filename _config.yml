@@ -1,0 +1,14 @@
+layout_spectrum: 0.4174519644584507
+typography_spectrum: 0.6759987284895033
+color:
+  brandStrength: 0.30239932727999985
+  lightness: 0.43421017238870263
+  saturation: 0.783148558344692
+  rhythmicContrast: 0.17132737720385194
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: human
