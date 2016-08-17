@@ -4,8 +4,15 @@
         <description><![CDATA[humananoid]]></description>
         <link>https://thegrid.ai/human/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 12:55:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 12:55:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/human/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/80191f72-7fc8-4d6f-8812-c107fe81428c.jpg">]]></description>
+            <link>https://thegrid.ai/human/481180b3-1abc-439c-9247-ebaa32fe2ecc/index.html</link>
+            <guid isPermaLink="false">481180b3-1abc-439c-9247-ebaa32fe2ecc</guid>
+            <pubDate>Wed, 17 Aug 2016 12:55:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16bd0c91-12db-449b-be94-5f12b7004a8f.jpg">]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/human/32457c72-c464-4a4a-ae05-302e27afdf6b/index.html</link>
             <guid isPermaLink="false">32457c72-c464-4a4a-ae05-302e27afdf6b</guid>
             <pubDate>Tue, 16 Aug 2016 06:57:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/80191f72-7fc8-4d6f-8812-c107fe81428c.jpg">]]></description>
-            <link>https://thegrid.ai/human/481180b3-1abc-439c-9247-ebaa32fe2ecc/index.html</link>
-            <guid isPermaLink="false">481180b3-1abc-439c-9247-ebaa32fe2ecc</guid>
-            <pubDate>Tue, 16 Aug 2016 06:57:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
