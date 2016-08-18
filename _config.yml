@@ -1,4 +1,4 @@
-typography_spectrum: 0.4855286960955709
+typography_spectrum: 0.9496986335143447
 color:
   brandStrength: 0.22524571511894464
   lightness: 0.23335579177364707
@@ -10,6 +10,6 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-layout_spectrum: 0.7664109691977501
+layout_spectrum: 0.7300101870205253
 name: human
 title: humananoid
