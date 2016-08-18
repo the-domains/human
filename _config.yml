@@ -1,15 +1,15 @@
-typography_spectrum: 0.6759987284895033
+typography_spectrum: 0.8962434977293015
 color:
-  brandStrength: 0.30239932727999985
-  lightness: 0.43421017238870263
-  saturation: 0.783148558344692
-  rhythmicContrast: 0.17132737720385194
+  brandStrength: 0.22524571511894464
+  lightness: 0.23335579177364707
+  saturation: 0.4104509656317532
+  rhythmicContrast: 0.4085885852109641
   brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
-layout_spectrum: 0.4174519644584507
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.050238618394359946
 name: human
 title: humananoid
